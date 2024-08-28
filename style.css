@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  h1{
+    color: aliceblue;
+  }
+  body{
+      background-color: black;
+  }
+  .container{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      padding: 16;
+      margin-top: 5px;
+  
+  }
+  .container div{
+      width: 600px;
+      height: 600px;
+   
+  
+  }
+  .container img{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      cursor: pointer;
+      transition: 1s;
+    
+  
+  }
+  .container img:hover{
+  transform: scale(1.1);
+  }
+  #img01{
+    object-position: top;
+  }
+  #img02{
+    object-position: bottom;
+  }
+
+ 
