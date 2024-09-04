@@ -15,3 +15,4 @@ O intuito desse projeto é colocar em prática o conhecimento adquirido sobre as
 ---
 # Autor
 - [Guilherme Felix]()
+# GALERIA.CR7-2024
